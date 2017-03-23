@@ -1,0 +1,4 @@
+3
+Walmart 23.0
+Walmart 38.0
+Soriana 20.0
